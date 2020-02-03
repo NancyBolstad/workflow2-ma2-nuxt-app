@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        noroff-nuxt-app
+        Hello world
       </h1>
       <h2 class="subtitle">
-        Noroff school project
+        noroff-nuxt-app - Noroff school project
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
@@ -48,9 +48,9 @@ export default {
   font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 100px;
-  color: #35495e;
+  color: purple;
   letter-spacing: 1px;
 }
 
